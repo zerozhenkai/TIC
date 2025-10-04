@@ -9,7 +9,7 @@ from datetime import datetime
 class MediaToolsPro:
     def __init__(self, root):
         self.root = root
-        self.root.title("MediaTools Pro - Organizado por Mídia")
+        self.root.title("TIC(The Inative Core) - Organizado por Mídia")
         self.root.geometry("1100x850")
         self.root.configure(bg='#f5f5f5')
         
